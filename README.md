@@ -44,7 +44,7 @@ CodeOrbit_RuleBasedChatbot/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeOrbit-Rule-Based-Chatbot.git
+git clone https://github.com/thedenilsonpinto/CodeOrbit-Rule-Based-Chatbot.git
 ```
 
 Install dependencies
